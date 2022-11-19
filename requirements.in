@@ -1,0 +1,15 @@
+django
+django-rest-framework
+gunicorn
+django-hashid-field
+django-audit-log
+django-extensions
+django-softdelete
+django-simple-history
+django-allauth
+django-debug-toolbar
+django-grappelli
+django-nested-admin
+psycopg2-binary
+sentry-sdk
+whitenoise
